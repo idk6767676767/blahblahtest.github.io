@@ -1,1 +1,4 @@
-
+body {
+    background: linear-gradient(to right, #f3df70, #70dff3, #ca70f3);
+    font-family: sans-serif;
+}
